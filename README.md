@@ -1,6 +1,8 @@
-# classproject
+# virtualtutor
 
-A new Flutter project.
+虛擬班導
+1. 林珈何 (C109151182)
+2. 莊承翰 (C109193202)
 
 ## Getting Started
 
